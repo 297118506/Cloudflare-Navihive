@@ -19,16 +19,17 @@
         {
             "binding": "DB",
             "database_name": "navigation-db",
-            "database_id": "f9ff228d-61ff-4cb8-a820-62095c1a1dbc"
+            "database_id": "87038458-ccae-4c04-a2af-2552c9b5ce0f"
         }
     ],
     "vars": {
         "AUTH_ENABLED": "true",
         "AUTH_USERNAME": "admin",
-        "AUTH_PASSWORD": "$2a$12$ZSLUS9VrKsVf6yjgGUn2/ewLY9vqztqFpL99NExv6Kv3GjvyRnNEG",
-        "AUTH_SECRET": "$2y$10$IMVl9NM.Smo7xbPVyi9HEOBhcLxOPKEp9RBIEoijS4YbKjeyFjJFm"
+        "AUTH_PASSWORD": "$2a$10$HtEUiwvmc6AMjpkE/vWNmuq231q3zN7XPSsmOYfW45I2jNl/ix5F6",
+        "AUTH_SECRET": "7cca0fb8bb0dc41a150cfa44ad4cd415db767a7cefaab703d3571f68dcefcc4f"
     }
 }
+
 
 
 
